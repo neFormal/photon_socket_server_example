@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Client\Client.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client\Client.cs">
+    <Files>
+      <File FileName="Server\Server.cs" Line="1" Column="1" />
+      <File FileName="Server\Peer.cs" Line="14" Column="1" />
+      <File FileName="Client\Client.cs" Line="27" Column="1" />
+      <File FileName="Client\ClientWorker.cs" Line="1" Column="1" />
+      <File FileName="Client\WorkersPool.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chat" expanded="True">
+            <Node name="Client" expanded="True">
+              <Node name="Client.cs" selected="True" />
+            </Node>
+            <Node name="Common" expanded="True" />
+            <Node name="Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
